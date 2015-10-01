@@ -12,5 +12,4 @@ github_username:  dajjwwx
 
 # Build settings
 markdown: kramdown
-#pygments: true
-highlighter: true
+pygments: true
