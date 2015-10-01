@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "我的第一篇Jekyl日志"
+date:   2015-10-01 08:27:40
+categories: jekyll update
+---
+[My Blog]: www.yuekegu.com
