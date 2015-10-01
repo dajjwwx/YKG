@@ -4,4 +4,7 @@ title:  "我的第一篇Jekyl日志"
 date:   2015-10-01 08:27:40
 categories: jekyll update
 ---
+我用全身力气才换来半生幸运，不是我不想，只是我不能。
+
+这是我写的第一篇日志哦！
 [My Blog]: www.yuekegu.com
